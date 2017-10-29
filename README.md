@@ -15,6 +15,7 @@ Collection of Exercises for Realtime Programming course
 | [05-06](https://github.com/syeel/240448/tree/master/src/main/java/Week05_06)| Write a Java program to generate 1,000 random numbers between 500 and 3,000. These random numbers will represent the waiting times of each execution in TWO (2) threads. If the total values of Thread-1 greater than the total values of Thread-2, the following number will be incremented by Thread-2. Finally, count the total numbers executed by each thread.|
 | [06-01](https://github.com/syeel/240448/tree/master/src/main/java/Week06_01)| Write a Java program to generate 1,000,000 random numbers between 0 and 100. Every random number will be displayed in a chart every 0.5 seconds.|
 | [07-01](https://github.com/syeel/240448/tree/master/src/main/java/Week07_01)| Write a Java program to insert the dependency codes into the pom.xml file.|
+| [07-02](https://github.com/syeel/240448/tree/master/src/main/java/Week07_02)| Write a Java program to search and count 'class' files (example: Xyz.class) in a specific directory/folder. Then display all the class files. Please consider the sub-directories as well.|
 
 
 
