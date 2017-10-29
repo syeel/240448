@@ -2,11 +2,12 @@
  * Semester: A171
  * Course: STIW3054
  * Group: A
- * Task: Issue No.3, Week 5
+ * Task: Issue No.1, Week 6
  * Matric Num: 240448
  * Name: Lim Siang Yee
  *
  */
+
 // Reference: https://knowm.org/how-to-make-real-time-charts-in-java/
 
 package Week06_01;

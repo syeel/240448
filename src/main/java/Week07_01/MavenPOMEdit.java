@@ -1,8 +1,19 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* 
+ * Semester: A171
+ * Course: STIW3054
+ * Group: A
+ * Task: Issue No.1, Week 7
+ * Matric Num: 240448
+ * Name: Lim Siang Yee
+ *
  */
+
+/* References
+ *  1) http://maven.apache.org/ref/3.5.0/maven-model/apidocs/index.html
+ *  2) https://stackoverflow.com/questions/2811536/how-to-edit-a-maven-pom-at-runtime
+ *  3) https://www.programcreek.com/java-api-examples/index.php?api=org.apache.maven.model.Plugin
+*/
+
 package Week07_01;
 
 import java.io.File;
