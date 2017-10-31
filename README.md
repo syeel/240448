@@ -19,6 +19,7 @@ Collection of Exercises for Realtime Programming course
 | [07-03](https://github.com/syeel/240448/tree/master/src/main/java/Week07_03)| Write a Java program to search and count repositories in "https://github.com/zhamri". Then display all the repositories.|
 | [07-04](https://github.com/syeel/240448/tree/master/src/main/java/Week07_04)|Write a Java program to search and count contents in "https://github.com/zhamri/STIW3054-RT-Programming" repository. Then display all the contents.|
 | [07-05](https://github.com/syeel/240448/tree/master/src/main/java/Week07_05)|Write a Java program to search and count issues in "https://github.com/zhamri". Then display all the issues.|
+| [07-06](https://github.com/syeel/240448/tree/master/src/main/java/Week07_06)|Write a Java program to search and count all contributors in "https://github.com/zhamri" issues. Then display the list of contributors (using github id) and the total number of contributions for each contributor.|
 
 
 
