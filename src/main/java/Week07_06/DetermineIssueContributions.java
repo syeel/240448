@@ -38,8 +38,8 @@ import org.kohsuke.github.PagedIterable;
 public class DetermineIssueContributions {
     public static void main (String[] args) throws IOException{
         
-        Map<String, Integer> individualContribution = new HashMap<String, Integer>();
-        Map<String, Integer> sortedContribution = new LinkedHashMap<String, Integer>();
+        Map<String, Integer> individualContribution = new HashMap<>();
+        Map<String, Integer> sortedContribution = new LinkedHashMap<>();
         
         //Insert your github id into first parameter and password into the second
         GitHub github = GitHub.connectUsingPassword("", ""); 
