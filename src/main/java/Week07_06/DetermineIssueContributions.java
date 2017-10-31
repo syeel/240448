@@ -79,7 +79,7 @@ public class DetermineIssueContributions {
         }
 
         sortedContribution = sortByValue(individualContribution);
-        System.out.println("\nOperation completed, thank you for your patient! \nBelow are the result: \n");
+        System.out.println("\nOperation completed, thank you for your patient! \nBelow are the results: \n");
         
         int a=1;
         Iterator it = sortedContribution.entrySet().iterator();
