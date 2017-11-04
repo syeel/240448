@@ -52,7 +52,7 @@ public class DetermineIssueContributions {
         String dateTime = dateFormat.format(date);
         
         //Insert your github id into first parameter and password into the second
-        GitHub github = GitHub.connectUsingPassword("syeel", "8384534aA*#"); 
+        GitHub github = GitHub.connectUsingPassword("", ""); 
         String gitId = "zhamri"; //Change value to any valid user ID you want to search
         GHUser user = github.getUser(gitId);
         GHPersonSet<GHUser> lectFollowing = user.getFollows();
